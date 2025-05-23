@@ -1,85 +1,110 @@
-# 👨🏽‍💻 0xMR007
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile !;Cybersecurity+Enthusiast;Software+Development;CTF+Player;Scripting" alt="Typing SVG" />
+  <h1>Hi there, I'm Hossaïne <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <p align='center'>
+    <a href="https://linkedin.com/in/hossaïne-farhi"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://buymeacoffee.com/1mR007"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70D6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile+!;Cybersecurity+Student;Scripting;Web+Development;CTF+Player" alt="Typing SVG"/>
 </div>
 
-## 🚀 About Me
+### 👋 Here's a quick overview of who I am and what drives me :
 
-- 🥖 French student passionate about cybersecurity, software development, and IT
-- 🧠 Continuously learning through scripting, automation projects, and CTF challenges
-- 🛠️ Driven by concrete, real-world problems — the kind that give you that satisfying *"I cracked it!"* feeling
-- 💡 Always looking to grow, collaborate, and share what I build
-- 🌱 Currently focusing on: Cybersecurity and Software Development
-- 🎯 Goals: Master penetration testing and secure coding practices
+<span style="font-size:1.15em">
+🥖 I'm a French student passionate about cybersecurity, software development, and pretty much everything in IT<br>
+🧠 I learn best by doing — building tools, automating tasks, and diving into CTFs to sharpen my skills<br>
+🛠️ I'm driven by real-world challenges — the kind that push you to think deeply and give you that <em>"Yes! I cracked it!"</em> feeling<br>
+💡 I'm always aiming to grow, connect with others, and share useful things I create<br>
+🌱 Right now, I'm focusing on pentesting and preparing for the <b>eJPT</b> certification<br>
+🎯 Long-term goal ? To become a <b>red team specialist</b> and work on offensive security full-time
+</span>
 
-## 🌐 Connect With Me
+<details>
+<summary><h2 style="display: inline-block">💻 Tech Stack</h2></summary>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1282627099039109142)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hossa%C3%AFne-farhi/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://your-portfolio-url.com)
+### 👨‍💻 Languages
 
-## 💻 Tech Stack
+<p>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+</p>
 
-### Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+### 🧰 Frameworks and Libraries
 
-### Web Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+<p>
+    Empty for now...🫠
+</p>
 
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+### 🗄️ Databases
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF5722?style=flat&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat&logo=nmap&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+<p>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&logoColor=white"></a>
+    <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?logo=phpmyadmin&logoColor=white"></a>
+</p>
 
-### Cybersecurity & Networking
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
-![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF5722?style=flat&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat&logo=nmap&logoColor=white)
+### 💻 Software and Tools
 
-## 📊 GitHub Stats
+<p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white"></a>
+    <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"></a>
+    <br>
+    <a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF5722?style=flat&logo=burpsuite&logoColor=white"></a>
+    <a href="#"><img alt="Nmap" src="https://img.shields.io/badge/Nmap-000000?style=flat&logo=nmap&logoColor=white"></a>
+    <a href="#"><img alt="Pfsense" src="https://img.shields.io/badge/PfSense-212121?style=flat&logo=pfsense&logoColor=white"></a>
+    <a href="#"><img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white"></a>
+    <a href="#"><img alt="Hyper-V" src="https://img.shields.io/badge/Hyper--V-0078D7?style=flat&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"></a>
+    <br>
+    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"></a>
+    <a href="#"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white"></a>
+    <a href="#"><img alt="Hack The Box" src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black"></a>
+    <a href="#"><img alt="Root Me" src="https://img.shields.io/badge/RootMe-222222?style=flat&logoColor=white"></a>
+    <a href="#"><img alt="GLPI" src="https://img.shields.io/badge/GLPI-2A4E7E?style=flat&logo=glpi&logoColor=white"></a>
+</p>
+</details>
+
+<details>
+<summary><h2 style="display: inline-block">📊 GitHub Stats</h2></summary>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xMR007&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMR007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="0xMR007's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=0xMR007&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="0xMR007's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMR007&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  </a>
+</div>
+</details>
+
+<details>
+<summary><h2 style="display: inline-block">📘 My Projects</h2></summary>
+
+<div align="center">
+  <a href="https://github.com/0xMR007/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xMR007&repo=project-1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="45%" alt="project-1"/>
+  </a>
+  <a href="https://github.com/0xMR007/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xMR007&repo=project-2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="45%" alt="project-2"/>
+  </a>
 </div>
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=0xMR007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-## 💰 Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/1mR007)
-
----
-
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=0xMR007&icon=0&color=0" alt="Profile Views" />
-  <br>
-  <sub>Thanks for visiting! Feel free to star this repo if you find it useful.</sub>
+  <a href="https://github.com/0xMR007?tab=repositories">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</div>
+</details>
+<br>
+<div align="center">
+  <i>🌟 Thanks for visiting ! Feel free to star this repo if you liked it.</i>
 </div> 
