@@ -90,11 +90,11 @@
 <summary><h2 style="display: inline-block">📘 My Projects</h2></summary>
 
 <div align="center">
-  <a href="https://github.com/0xMR007/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xMR007&repo=project-1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="45%" alt="project-1"/>
+  <a href="https://github.com/0xMR007/PyScanner.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xMR007&repo=PyScanner&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="45%" alt="PyScanner"/>
   </a>
-  <a href="https://github.com/0xMR007/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xMR007&repo=project-2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="45%" alt="project-2"/>
+  <a href="https://github.com/0xMR007/GenImageJS.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xMR007&repo=GenImageJS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="45%" alt="GenImageJS"/>
   </a>
 </div>
 
