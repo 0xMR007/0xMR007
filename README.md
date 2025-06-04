@@ -8,12 +8,12 @@
 
 ## 👋 Here's a quick overview of who I am and what drives me :
 
-<span style="font-size:1.2em">
+<span style="font-size:1.3em">
 🥖 I'm a French student passionate about cybersecurity, software development, and pretty much everything in IT<br>
 🧠 I learn best by doing — building tools, automating tasks, and diving into CTFs to sharpen my skills<br>
 🛠️ I'm driven by real-world challenges — the kind that push you to think deeply and give you that <em>"Yes! I cracked it!"</em> feeling<br>
-💡 I'm always aiming to grow, connect with others, and share useful things I create<br>
-🌱 Right now, I'm focusing on pentesting and preparing for the <b>eJPT</b> certification<br>
+🌱 I'm always aiming to grow, connect with others, and share useful things I create<br>
+💡 Right now, I'm focusing on pentesting and preparing for the <b>eJPT</b> certification<br>
 🎯 Long-term goal ? To become a <b>red team specialist</b> and work on offensive security full-time
 </span>
 
