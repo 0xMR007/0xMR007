@@ -8,7 +8,7 @@
 
 ## 👋 Here's a quick overview of who I am and what drives me :
 
-<span style="font-size:1.3em">
+<span style="font-size:1.5em">
 🥖 I'm a French student passionate about cybersecurity, software development, and pretty much everything in IT<br>
 🧠 I learn best by doing — building tools, automating tasks, and diving into CTFs to sharpen my skills<br>
 🛠️ I'm driven by real-world challenges — the kind that push you to think deeply and give you that <em>"Yes! I cracked it!"</em> feeling<br>
