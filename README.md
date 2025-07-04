@@ -1,7 +1,9 @@
 <div align="center">
   <h1>Hi there, I'm Hossaïne <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
   <p align='center'>
-    <a href="https://buymeacoffee.com/1mR007"><img height="20" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://buymeacoffee.com/1mR007">
+      <img style="height: 30px" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true">
+    </a>&nbsp;&nbsp;
   </p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70D6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile+!;Cybersecurity+Student;Scripting;Web+Development;CTF+Player" alt="Typing SVG"/>
 </div>
