@@ -73,41 +73,6 @@
 </p>
 </details>
 
-<details>
-<summary><h2 style="display: inline-block">📊 GitHub Stats</h2></summary>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="0xMR007's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=0xMR007&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="0xMR007's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMR007&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  </a>
-</div>
-</details>
-
-<details>
-<summary><h2 style="display: inline-block">📘 My Projects</h2></summary>
-
-<div align="center">
-  <a href="https://github.com/0xMR007/PyScanner.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xMR007&repo=PyScanner&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="45%" alt="PyScanner"/>
-  </a>
-  <a href="https://github.com/0xMR007/GenImageJS.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xMR007&repo=GenImageJS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="45%" alt="GenImageJS"/>
-  </a>
-  <a href="https://github.com/0xMR007/GmailPilot.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xMR007&repo=GmailPilot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" width="45%" alt="GmailPilot"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/0xMR007?tab=repositories">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-</div>
-</details>
-<br>
 <div align="center">
   <i>🌟 Thanks for visiting ! Feel free to star this repo if you liked it</i>
 </div>
