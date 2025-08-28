@@ -30,9 +30,6 @@ A full cybersecurity homelab (red team et blue team) featuring a DMZ, a LAN and 
 <div style="display: flex; gap: 20px;">
   <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
     <img src="./assets/eJPT.png" width="64">
-    <p style="font-size: 15px;">
-      eJPTv2
-    </p>
   </div>
 </div>
 
@@ -127,9 +124,6 @@ Un lab de cybersécurité complet (red team et blue team) contenant une DMZ, un 
 <div style="display: flex;">
   <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
     <img src="./assets/eJPT.png" width="64">
-    <p style="font-size: 15px;">
-      eJPTv2
-    </p>
   </div>
 </div>
 
