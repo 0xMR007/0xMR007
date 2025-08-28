@@ -21,11 +21,20 @@
  - 💡 I recently earned the <b>eJPTv2</b> certification and I'm continuing to focus on pentesting
  - 🎯 Long-term goal ? To become a <b>red team specialist</b> and work on offensive security full-time
 
+## 👨🏽‍💻 Current Work / Projects in Progress :
+
+A full cybersecurity homelab (red team et blue team) featuring a DMZ, a LAN and a virtual WAN using tools such as : WMware, pfSense, Docker Compose, Wazuh, Suricata.
+
 ## 🏅 Certifications
 
-<p>
-    <a href="#"><img alt="eJPTv2" src="https://img.shields.io/badge/eJPTv2-Passed-2ea44f"></a>
-</p>
+<div style="display: flex; gap: 20px;">
+  <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
+    <img src="./assets/eJPT.png" width="64">
+    <p style="font-size: 15px;">
+      eJPTv2
+    </p>
+  </div>
+</div>
 
 <details>
 <summary><h2 style="display: inline-block">💻 Tech Stack</h2></summary>
@@ -109,11 +118,20 @@
 - 💡 J'ai récemment obtenu la certification <b>eJPTv2</b> et je continue à me concentrer sur le pentest
 - 🎯 Objectif à long terme ? Devenir <b>spécialiste red team</b> et travailler à plein temps en cybersécurité offensive
 
+## 👨🏽‍💻 Travail actuel / Projets en cours :
+
+Un lab de cybersécurité complet (red team et blue team) contenant une DMZ, un LAN et un WAN virtuel en utilisant des outils tels que : WMware, pfSense, Docker Compose, Wazuh, Suricata.
+
 ## 🏅 Certifications
 
-<p>
-    <a href="#"><img alt="eJPTv2" src="https://img.shields.io/badge/eJPTv2-Réussi-2ea44f"></a>
-</p>
+<div style="display: flex;">
+  <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
+    <img src="./assets/eJPT.png" width="64">
+    <p style="font-size: 15px;">
+      eJPTv2
+    </p>
+  </div>
+</div>
 
 <details>
 <summary><h2 style="display: inline-block">💻 Stack technique</h2></summary>
