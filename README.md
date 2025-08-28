@@ -23,7 +23,7 @@
 
 ## 👨🏽‍💻 Current Work / Projects in Progress :
 
-A full cybersecurity homelab (red team et blue team) featuring a DMZ, a LAN and a virtual WAN using tools such as : WMware, pfSense, Docker Compose, Wazuh, Suricata.
+A full cybersecurity homelab (red team and blue team) featuring a DMZ, a LAN and a virtual WAN using tools such as : WMware, pfSense, Docker Compose, Wazuh, Suricata.
 
 ## 🏅 Certifications
 
