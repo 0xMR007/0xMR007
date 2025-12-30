@@ -27,19 +27,15 @@ A full cybersecurity homelab (red team and blue team) featuring a DMZ, a LAN and
 
 ## 🏅 Certifications/Certificates
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; flex-direction: row; gap: 20px;">
   <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
     <img src="./assets/eJPT.png" width="64">
   </div>
-</div>
-<div style="display: flex; gap: 20px;">
   <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
-    <img src="./assets/Root-me-pro.png" width="64">
+    <img src="./assets/Root-me-pro.png" width="80">
   </div>
-</div>
-<div style="display: flex; gap: 20px;">
   <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
-    <img src="./assets/Google-Cybersecurity-Badge.png" width="64">
+    <img src="./assets/Google-Cybersecurity-Badge.png" width="80">
   </div>
 </div>
 
@@ -136,19 +132,15 @@ Un lab de cybersécurité complet (red team et blue team) contenant une DMZ, un 
 
 ## 🏅 Certifications/Certificats
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; flex-direction: row; gap: 20px;">
   <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
     <img src="./assets/eJPT.png" width="64">
   </div>
-</div>
-<div style="display: flex; gap: 20px;">
   <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
-    <img src="./assets/Root-me-pro.png" width="64">
+    <img src="./assets/Root-me-pro.png" width="80">
   </div>
-</div>
-<div style="display: flex; gap: 20px;">
   <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
-    <img src="./assets/Google-Cybersecurity-Badge.png" width="64">
+    <img src="./assets/Google-Cybersecurity-Badge.png" width="80">
   </div>
 </div>
 
