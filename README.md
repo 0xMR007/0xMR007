@@ -17,9 +17,9 @@
 - 🥖 I'm a French student passionate about cybersecurity, software development, and pretty much everything in IT
 - 🧠 I learn best by doing for example : building tools, automating tasks, or diving into CTFs to sharpen my skills
 - 🛠️ I'm driven by real-world challenges, you know the kind that push you to think deeply and give you that <em>"Yes! I cracked it!"</em> feeling
- - 🌱 I'm always aiming to grow, connect with others, and share useful things I create
- - 💡 I recently earned the <b>eJPTv2</b> certification and I'm continuing to focus on pentesting AD and Web (Junior Penetration Tester job role path of HTB)
- - 🎯 Long-term goal ? To become a <b>red team specialist</b> and work on offensive security full-time
+- 🌱 I'm always aiming to grow, connect with others, and share useful things I create
+- 💡 I recently earned the <b>eJPTv2</b> certification and I'm continuing to focus on pentesting AD and Web (Junior Penetration Tester job role path of HTB)
+- 🎯 Long-term goal ? To become a <b>red team specialist</b> and work on offensive security full-time
 
 ## 👨🏽‍💻 Current Work / Projects in Progress :
 
@@ -27,17 +27,11 @@ A full cybersecurity homelab (red team and blue team) featuring a DMZ, a LAN and
 
 ## 🏅 Certifications/Certificates
 
-<div style="display: flex; flex-direction: row; gap: 20px;">
-  <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
-    <img src="./assets/eJPT.png" width="64">
-  </div>
-  <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
-    <img src="./assets/Root-me-pro.png" width="80">
-  </div>
-  <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
-    <img src="./assets/Google-Cybersecurity-Badge.png" width="80">
-  </div>
-</div>
+<p align="center">
+  <img src="./assets/eJPT.png" width="64" style="margin: 0 10px;">
+  <img src="./assets/Root-me-pro.png" width="80" style="margin: 0 10px;">
+  <img src="./assets/Google-Cybersecurity-Badge.png" width="80" style="margin: 0 10px;">
+</p>
 
 <details>
 <summary><h2 style="display: inline-block">💻 Tech Stack</h2></summary>
@@ -132,17 +126,11 @@ Un lab de cybersécurité complet (red team et blue team) contenant une DMZ, un 
 
 ## 🏅 Certifications/Certificats
 
-<div style="display: flex; flex-direction: row; gap: 20px;">
-  <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
-    <img src="./assets/eJPT.png" width="64">
-  </div>
-  <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
-    <img src="./assets/Root-me-pro.png" width="80">
-  </div>
-  <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
-    <img src="./assets/Google-Cybersecurity-Badge.png" width="80">
-  </div>
-</div>
+<p align="center">
+  <img src="./assets/eJPT.png" width="64" style="margin: 0 10px;">
+  <img src="./assets/Root-me-pro.png" width="80" style="margin: 0 10px;">
+  <img src="./assets/Google-Cybersecurity-Badge.png" width="80" style="margin: 0 10px;">
+</p>
 
 <details>
 <summary><h2 style="display: inline-block">💻 Stack technique</h2></summary>
