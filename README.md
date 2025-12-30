@@ -15,21 +15,31 @@
 ## 👋 Here's a quick overview of who I am and what drives me :
 
 - 🥖 I'm a French student passionate about cybersecurity, software development, and pretty much everything in IT
-- 🧠 I learn best by doing — building tools, automating tasks, and diving into CTFs to sharpen my skills
-- 🛠️ I'm driven by real-world challenges — the kind that push you to think deeply and give you that <em>"Yes! I cracked it!"</em> feeling
+- 🧠 I learn best by doing for example : building tools, automating tasks, or diving into CTFs to sharpen my skills
+- 🛠️ I'm driven by real-world challenges, you know the kind that push you to think deeply and give you that <em>"Yes! I cracked it!"</em> feeling
  - 🌱 I'm always aiming to grow, connect with others, and share useful things I create
- - 💡 I recently earned the <b>eJPTv2</b> certification and I'm continuing to focus on pentesting
+ - 💡 I recently earned the <b>eJPTv2</b> certification and I'm continuing to focus on pentesting AD and Web (Junior Penetration Tester job role path of HTB)
  - 🎯 Long-term goal ? To become a <b>red team specialist</b> and work on offensive security full-time
 
 ## 👨🏽‍💻 Current Work / Projects in Progress :
 
-A full cybersecurity homelab (red team and blue team) featuring a DMZ, a LAN and a virtual WAN using tools such as : WMware, pfSense, Docker Compose, Wazuh, Suricata.
+A full cybersecurity homelab (red team and blue team) featuring a DMZ, a LAN and a virtual WAN using tools such as : VMware/VirtualBox, pfSense, Docker Compose, Wazuh, Suricata, .
 
-## 🏅 Certifications
+## 🏅 Certifications/Certificates
 
 <div style="display: flex; gap: 20px;">
   <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
     <img src="./assets/eJPT.png" width="64">
+  </div>
+</div>
+<div style="display: flex; gap: 20px;">
+  <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
+    <img src="./assets/Root-me-pro.png" width="64">
+  </div>
+</div>
+<div style="display: flex; gap: 20px;">
+  <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
+    <img src="./assets/Google-Cybersecurity-Badge.png" width="64">
   </div>
 </div>
 
@@ -87,6 +97,11 @@ A full cybersecurity homelab (red team and blue team) featuring a DMZ, a LAN and
     <a href="#"><img alt="Root Me" src="https://img.shields.io/badge/RootMe-222222?style=flat&logoColor=white"></a>
     <a href="#"><img alt="GLPI" src="https://img.shields.io/badge/GLPI-2A4E7E?style=flat&logo=glpi&logoColor=white"></a>
     <a href="#"><img alt="Windows Server" src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-183A61?style=flat&logo=vagrant&logoColor=blue"></a>
+    <a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-000000?style=flat&logo=wazuh&logoColor=white"></a>
+    <a href="#"><img alt="Suricata" src="https://img.shields.io/badge/Suricata-000000?style=flat&logo=suricata&logoColor=white"></a>
 </p>
 </details>
 
@@ -109,21 +124,31 @@ A full cybersecurity homelab (red team and blue team) featuring a DMZ, a LAN and
 ## 👋 Voici un aperçu rapide de qui je suis et de ce qui me motive :
 
 - 🥖 Je suis un étudiant français passionné par la cybersécurité, le développement logiciel et, plus largement, tout ce qui touche à l'IT
-- 🧠 J'apprends surtout en pratiquant — en créant des outils, en automatisant des tâches et en me plongeant dans des CTFs pour perfectionner mes compétences
-- 🛠️ Ce qui me motive ? Des défis concrets et réalistes, le genre de défis qui font vraiment réfléchir et procurent ce sentiment <em>« Oui ! J'ai réussi ! »</em>
+- 🧠 J'apprends surtout en pratiquant, par exemple : en créant des outils, en automatisant des tâches ou en participant à des CTFs pour perfectionner mes compétences
+- 🛠️ Ce qui me motive ? Des défis concrets et réalistes, le genre de défis qui font vraiment réfléchir et procurent ce fameux sentiment : <em>"Oui ! J'ai réussi !"</em>
 - 🌱 Je cherche toujours à progresser, à me connecter avec d'autres personnes et à partager les projets utiles que je crée
-- 💡 J'ai récemment obtenu la certification <b>eJPTv2</b> et je continue à me concentrer sur le pentest
+- 💡 J'ai récemment obtenu la certification <b>eJPTv2</b> et je continue à me concentrer sur le pentest AD et Web (Junior Penetration Tester job role path de HTB)
 - 🎯 Objectif à long terme ? Devenir <b>spécialiste red team</b> et travailler à plein temps en cybersécurité offensive
 
 ## 👨🏽‍💻 Travail actuel / Projets en cours :
 
-Un lab de cybersécurité complet (red team et blue team) contenant une DMZ, un LAN et un WAN virtuel en utilisant des outils tels que : WMware, pfSense, Docker Compose, Wazuh, Suricata.
+Un lab de cybersécurité complet (red team et blue team) contenant une DMZ, un LAN et un WAN virtuel en utilisant des outils tels que : VMware/VirtualBox, pfSense, Docker Compose, Wazuh, Suricata, Ansible, Vagrant.
 
-## 🏅 Certifications
+## 🏅 Certifications/Certificats
 
-<div style="display: flex;">
+<div style="display: flex; gap: 20px;">
   <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
     <img src="./assets/eJPT.png" width="64">
+  </div>
+</div>
+<div style="display: flex; gap: 20px;">
+  <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
+    <img src="./assets/Root-me-pro.png" width="64">
+  </div>
+</div>
+<div style="display: flex; gap: 20px;">
+  <div style="display: flex; flex-direction: column; gap: 15px; justify-content: center; align-items: center">
+    <img src="./assets/Google-Cybersecurity-Badge.png" width="64">
   </div>
 </div>
 
@@ -181,6 +206,11 @@ Un lab de cybersécurité complet (red team et blue team) contenant une DMZ, un 
     <a href="#"><img alt="Root Me" src="https://img.shields.io/badge/RootMe-222222?style=flat&logoColor=white"></a>
     <a href="#"><img alt="GLPI" src="https://img.shields.io/badge/GLPI-2A4E7E?style=flat&logo=glpi&logoColor=white"></a>
     <a href="#"><img alt="Windows Server" src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-183A61?style=flat&logo=vagrant&logoColor=blue"></a>
+    <a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-000000?style=flat&logo=wazuh&logoColor=white"></a>
+    <a href="#"><img alt="Suricata" src="https://img.shields.io/badge/Suricata-000000?style=flat&logo=suricata&logoColor=white"></a>
 </p>
 </details>
 
