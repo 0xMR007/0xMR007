@@ -94,7 +94,7 @@ Cybersecurity student in my final year of a Bachelor's degree in Computer Scienc
 [TryHackMe](https://tryhackme.com/p/0xMR007) · [Root-Me](https://www.root-me.org/0xMR007) · [HackTheBox](https://profile.hackthebox.com/profile/019d340b-25ae-702f-ae15-809531cffc69)
 
 <div align="center">
-  <i>Thanks for visiting - feel free to star my repos you find them useful.</i>
+  <i>Thanks for visiting - feel free to star my repos if you find them useful.</i>
 </div>
 
 ---
